@@ -72,6 +72,5 @@ yarn start
 
 # Autor
 
-Fabiano de Oliveira Maia
+[Fabiano Maia](https://www.linkedin.com/in/fabiano-maia-desenvolvedor)
 
-https://www.linkedin.com/in/wmazoni
